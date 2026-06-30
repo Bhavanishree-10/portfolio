@@ -1,6 +1,16 @@
-Thanks for downloading this template!
+## 🌐 About This Portfolio
 
-Template Name: EasyFolio
-Template URL: https://bootstrapmade.com/easyfolio-bootstrap-portfolio-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This portfolio represents my journey as an Artificial Intelligence and Data Science student, showcasing my technical skills, internship experience, academic achievements, and real-world projects. It highlights my expertise in web development, AI, and problem-solving through responsive and user-friendly applications. Designed with a clean and modern interface, the portfolio reflects my passion for continuous learning, innovation, and building impactful digital solutions.
+🚀 Tech Stack
+HTML5
+CSS3
+Bootstrap 5
+JavaScript
+✨ Features
+Responsive Design
+About Me
+Skills
+Experience
+Projects
+Achievements
+Contact
